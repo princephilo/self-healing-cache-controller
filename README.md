@@ -61,6 +61,11 @@ IDLE → DETECT → REPAIR → RESUME → IDLE
 ```
 
 ---
+## 📸 Waveform Output
+
+![Waveform](waveform.png)
+
+---
 
 ## 📈 Concepts Demonstrated
 
